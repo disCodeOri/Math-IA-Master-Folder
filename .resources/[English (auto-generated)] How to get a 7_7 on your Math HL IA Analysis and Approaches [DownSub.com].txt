@@ -1,0 +1,958 @@
+Link: https://www.youtube.com/watch?v=wDsVS2_WfWg
+
+not the blue light darn it
+
+hello my name
+
+I am an incoming freshman at the
+
+University of Chicago studying
+
+biochemistry I did the IB in my high
+
+school in Spain
+
+I had no idea where to start when I was
+
+writing my math I I didn't know what a
+
+mathematical exploration was I was so
+
+confused I needed help despite hitting
+
+absolute Rock Bottom while drafting my
+
+math eye
+
+[Music]
+
+I'm so proud of the end result and
+
+hopefully this can be some sort of like
+
+source of inspiration even if you don't
+
+know what you're doing you'll make it
+
+the math I seems very intimidating but
+
+you can do it so while breaking down the
+
+process of writing the math I I'll
+
+always refer to the five criteria and
+
+kind of show you how you can embed them
+
+throughout your IA the five criteria are
+
+a mathematical communication B
+
+presentation C personal engagement D
+
+reflection and e-use of mathematics
+
+something to keep in the back of your
+
+mind while choosing an IA topic is that
+
+you need to essentially reach a specific
+
+number you're answering a question and
+
+the answer to that question should be a
+
+number whether that be an area a
+
+probability it could be a function an
+
+equation but you need to have an answer
+
+in your IA so make sure you're familiar
+
+with the topic and that the math is
+
+taught within the curriculum because if
+
+you don't understand it you won't be
+
+able to reach this number and your eye
+
+will not have a conclusion what people
+
+usually do and what I certainly did
+
+initially is look up best math High
+
+topics on Google usually the top results
+
+are things that are quite overused I've
+
+seen many examples of people optimizing
+
+the area of food packaging and finding
+
+the ratio between music notes and of
+
+course these aren't bad ideas they're
+
+really good ideas but it's important to
+
+give them your own personal twist the IB
+
+doesn't really grade you on originality
+
+but they do grade you on how much you're
+
+engaged in the topic and how much you
+
+make it your own I know someone that did
+
+volume of Revolution and I also saw this
+
+on a video which I will link down below
+
+but basically you can take an object and
+
+outline it on Desmos and you'll have
+
+different functions and you can
+
+integrate the functions to find volume
+
+of evolution Revolution not Evolution
+
+ultimately if you end up using an idea
+
+like this one that has been used before
+
+just make sure to personalize it and you
+
+can for example look up other real world
+
+applications that use this mathematical
+
+method and then jump from there it's
+
+also important to consider Criterion e
+
+use of mathematics when choosing a topic
+
+because you're graded on whether your
+
+IAS commensurate with the course which
+
+means that it has to be HL and it has to
+
+cover one of the five Topics in the
+
+syllabus so I would avoid choosing a
+
+topic such as statistics because this
+
+specific unit doesn't have an HL
+
+component to it in analysis and
+
+approaches disclaimer it's obviously not
+
+prohibited to do a stats topic just make
+
+sure that you explore new and unfamiliar
+
+math that's at a high level I was saying
+
+this because the curriculum and Analysis
+
+and approaches doesn't dive too deep
+
+into stats like other math courses in
+
+the IB I think there are two good
+
+General ways of picking the topic the
+
+first one is going from a general
+
+interest my teacher made us do mind maps
+
+with like different hobbies and
+
+interests that you have and see how they
+
+can connect to math this is the Mind map
+
+that I made wow
+
+one thing that kind of stood out to me
+
+that I think is kind of a good idea I do
+
+not know if this has been used or not or
+
+one of my interests was dance and I put
+
+plotting a stage Direction on the
+
+Cartesian plane I think that's pretty
+
+cool I didn't really use this that much
+
+but I think some people it may be
+
+helpful the second way to choose a topic
+
+is by looking at the word problems in
+
+your textbook this is what I did I have
+
+the Pearson textbook and this is quite
+
+effective because word problems show you
+
+how the math that you're learning in
+
+your class can be used in real life I
+
+remember that I saw a word problem that
+
+was related to like the concentration of
+
+medicine in a patient's bloodstream from
+
+there I looked up on Google how to model
+
+the concentration of a drug in a
+
+person's bloodstream and I found a
+
+differential equation I could solve so
+
+if you find a word problem that has an
+
+interesting application research on
+
+Google and see what you can find
+
+so this is my advice take it with a
+
+grain of salt but I highly recommend
+
+investigating a topic related to
+
+differential equations because not only
+
+is it an atrial topic which will give
+
+you those points for Criterion e it's
+
+also a topic that has several real life
+
+applications and even if you haven't
+
+learned feqs yet in class with a bit of
+
+background and integration you could
+
+probably learn it in a couple of days
+
+but you only really need to know first
+
+order homogeneous and separable
+
+difficues I think it's worth taking a
+
+little bit of time learning how to solve
+
+them because there are so many different
+
+applications my textbook and my teachers
+
+slideshows had several word problems
+
+related to differential equations that
+
+basically give you potential math IA
+
+ideas many people have used Newton's law
+
+of cooling but other applications of
+
+differential equations include
+
+predicting chemical reaction rates or
+
+modeling the current in an electric
+
+circuit one word problem that I thought
+
+was quite interesting was related to
+
+water leaking from a tank if you use
+
+something like this you can see how you
+
+can minimize the time it takes for water
+
+to drain from the tank by changing
+
+different dimensions that's a potential
+
+idea I think there's something
+
+called Bernoulli's equation
+
+Bernoulli well I'll link a video down
+
+below but there's a lot you can do with
+
+calculating the rate of water flow
+
+another word problem was related to
+
+logistic growth and you can use that to
+
+predict the increase of a certain
+
+population and its carrying capacity
+
+when you solve a differential equation
+
+you're solving for a function that
+
+models something so I highly recommend
+
+it simply because you're going to have a
+
+very focused research question and a
+
+clear purpose in your ID in your i8
+
+quickly I solved a differential equation
+
+that includes the rate of change of
+
+concentration of a drug in the
+
+bloodstream in terms of time and you
+
+solve for the function of concentration
+
+versus time and the differential
+
+equation has several different constants
+
+and that's because the differential
+
+equation works for different drugs but
+
+you can evaluate the constants for
+
+specific numbers that are unique to a
+
+drug so for example there are constants
+
+such as bioavailability volume dosage
+
+and I plugged in the values for
+
+Amoxicillin which is an antibiotic I
+
+plug the values specific to Amoxicillin
+
+into the function and that gave me the
+
+graph for concentration versus time and
+
+the importance of this is that you can
+
+see whether the concentration surpasses
+
+a certain limit of toxicity
+
+depending on the dosage that you plugged
+
+in to the function in the end I found
+
+the area under the curve because that
+
+gives you something called the
+
+distribution of the drug or the exposure
+
+to the body every drug has a certain
+
+distribution number that cannot be
+
+passed because if not it would be
+
+considered toxic so by finding the area
+
+under the curve for Amoxicillin I could
+
+see whether the dosage I plugged in was
+
+safe or not
+
+your introduction consists of the
+
+rationale you talk about the relevance
+
+of your topic and you give an overview
+
+of the whole investigation and this is
+
+crucial for communication because you're
+
+introducing your topic you can't get too
+
+technical it can't be too complicated
+
+it's important that your introduction is
+
+concise so that your examiner isn't lost
+
+already at the beginning many people try
+
+to knock down the personal engagement
+
+marks in the introduction by writing the
+
+significant meaning that this topic has
+
+in their life and obviously it's
+
+important to explain why you chose this
+
+topic and why it's important to you but
+
+that shouldn't be your whole
+
+introduction you should make it a couple
+
+of sentences I think I did three to four
+
+sentences talking about why I found this
+
+topic interesting really what they want
+
+to see is the relevance personal
+
+engagement is more about your ability to
+
+problem solve rather than the personal
+
+connection that you have to this topic
+
+if you explain Concepts through diagrams
+
+Arts models or tables you're showing
+
+personal engagement
+
+this is extremely important for
+
+presentation because it says here in the
+
+rubric that you need to Define key terms
+
+you may have to explain some Concepts
+
+that are not related to math just so
+
+that your examiner gets a little bit
+
+more context to your investigation but
+
+you have to be very careful with this in
+
+my first math I.E draft I was very
+
+descriptive with the biological
+
+processes behind why the equation works
+
+in the first draft I said during
+
+elimination there are two main processes
+
+that remove the drug from the
+
+bloodstream which causes a decrease in
+
+the concentration the first process is
+
+metabolism which is when the drug
+
+crosses the membranes of cells this is
+
+not necessary yes I need to explain two
+
+very important Concepts and terms in my
+
+math I which are absorption and
+
+elimination because I want to show how
+
+the graph of concentration at first
+
+there's an increase which is when the
+
+drug is being absorbed into the
+
+bloodstream and then decrease which is
+
+when it's being eliminated from the
+
+bloodstream but you have to explain the
+
+mathematical interpretation you can't go
+
+into depth on why this happens I start
+
+explaining that this is because of
+
+metabolism that's not necessary and
+
+that's very important to keep in mind if
+
+you're doing a math eye that's related
+
+to a natural science if it's related to
+
+econ if it's related to literally any
+
+other discipline you have to make sure
+
+that you focus on the math you cannot be
+
+very technical in the terms well I
+
+recommend doing in your background
+
+information is include a table which by
+
+the way tables do not need to be double
+
+spaced the whole eye has to be double
+
+spaced except tables which I was not
+
+aware of so
+
+my table is double spaced which is quite
+
+painful I remember being frustrated
+
+about that because it has to be 20 pages
+
+and I went over the page limit at first
+
+I included a table to Define all my
+
+terms and I think this is quite helpful
+
+for the examiner to refer back to in
+
+case they forget what a certain variable
+
+or constant means my very first table
+
+and investigation includes key terms I
+
+explain where they come from for example
+
+absorption is related to the half-life
+
+of a drug same with elimination I made
+
+sure to include the units for each
+
+constant variable and in my background I
+
+explain very concisely what absorption
+
+and elimination are without being too
+
+technical with the biological terms keep
+
+in mind that this is a math I and do not
+
+start ranting on all the biological
+
+physical chemical mechanisms that are
+
+occurring because that's not the point
+
+you need to contextualize your eye and
+
+the background formation but the bulk of
+
+your IA is going to be your mathematical
+
+method your your calculation and all of
+
+that stuff so don't take up too much
+
+space
+
+explaining all your terms
+
+so now on to the cream of the Oreo after
+
+your background is the most important
+
+part of your IA which is your
+
+investigation you are explaining the
+
+method that you're using you're
+
+explaining all your calculations I
+
+basically divide my investigation to
+
+several parts I start by explaining the
+
+differential equation and how the terms
+
+are related to each other so throughout
+
+the investigation part of it I have
+
+several different titles that explain
+
+each step of solving the differential
+
+equation throughout my I included tables
+
+to demonstrate the standard form of a
+
+certain process and then the way that
+
+I'm applying this method to the equation
+
+that I'm solving in total I have like 11
+
+tables and that really helped me
+
+communicate what I'm doing as I solve
+
+the equation underneath each table I
+
+talk about why I'm doing what I'm doing
+
+which is the most important part you
+
+have to not just show what you're doing
+
+you have to explain it and for example
+
+in the first step I say that I'm putting
+
+this equation into standard form because
+
+that makes one side of the equation look
+
+similar to the result of a product rule
+
+when differentiating so as you can see I
+
+always use the standard formula and how
+
+I'm applying this formula to my
+
+investigation you have to be very clear
+
+with the steps you cannot really skip
+
+any steps when you're doing your math
+
+height I do want to reiterate the fact
+
+that even simple calculations should be
+
+included things that you would think the
+
+examiner should know you still have to
+
+explain why you're doing them in your
+
+math eye which is kind of frustrating in
+
+the first draft of my teacher circled so
+
+many things and put so many question
+
+marks
+
+[Music]
+
+it's very important in terms of
+
+communication to show exactly what
+
+you're doing and why you're doing even
+
+if it is the most simple thing in your
+
+eye so for example my teacher circled
+
+the exponent of the integrating factor
+
+and she just circled and put why when I
+
+integrated it it was literally a simple
+
+integration problem and I was really
+
+confused I was like this woman knows
+
+this she should know this but I still
+
+explain that and finally I take the
+
+values of amoxicillin and I plug them
+
+into the solution of the differential
+
+equation and I graphed the specific
+
+function that I got my final step in the
+
+investigation was finding the area under
+
+the curve and something that I did was
+
+use two different methods one of them
+
+being the trapezoid rule which is when
+
+you divide the graph into trapezoids and
+
+add the areas of the trapezoids and you
+
+do this by using discrete values of the
+
+function and then I use integration to
+
+find the area under the curve and I
+
+explain why you would use both methods
+
+at the end I found the distribution and
+
+saw that it was below the level of
+
+distribution that would be considered
+
+toxic so I concluded that the dosage
+
+that I had plugged in to the
+
+differential equation was safe
+
+and something that's really important is
+
+reflection throughout your IA reflection
+
+isn't something that you only talk about
+
+in the conclusion a lot of people
+
+include the bulk of their reflection and
+
+the conclusion and reflection should be
+
+demonstrated throughout the paper you
+
+can show reflection throughout your
+
+investigation by explaining your
+
+reasoning and why you would do something
+
+that's showing that you're reflecting
+
+and if you make a correction or decide
+
+to use an alternative method that also
+
+shows reflection it's very important for
+
+presentation to use the right notation
+
+using math type is really helpful I
+
+don't really like Google Docs embedded
+
+software with like notation because it's
+
+missing quite a few things and it
+
+doesn't look as neat as math type you
+
+can add it as an extension I think to
+
+both Google Docs and to word and
+
+throughout your investigation just make
+
+sure to include many graphs that you can
+
+create on Desmos
+
+in your conclusion you summarize your
+
+eye you summarize your results I talk
+
+about the percentage error I compare the
+
+theoretical value of the distribution of
+
+amoxicillin versus the value that I got
+
+in my graph you talk about the accuracy
+
+of your model and you also interpret the
+
+model or the results that you found and
+
+one thing I did was find the maximum
+
+point on the graph and I talked about
+
+how at this point the rate of absorption
+
+is equal to the rate of elimination I
+
+talk about at what time this occurs and
+
+what the concentration is is
+
+at this point in the graphic so after
+
+analyzing my results I included my
+
+evaluation and extensions and in this
+
+part you should be showing a lot of
+
+reflection you should be talking about
+
+errors and you should be talking about
+
+what you can do to fix those errors a
+
+possible extension to this investigation
+
+is making dosage a function instead of a
+
+constant because amoxicillin is not
+
+always taken in a tablet or in a capsule
+
+if it's taken in a tablet or a capsule
+
+dosage is constant because it's taken
+
+all at once but if the drug is for
+
+example taken through an intravenous
+
+needle an IV that would mean that the
+
+dosage is constantly changing over time
+
+so I talk about how I could potentially
+
+correct my differential equation to
+
+mimic this real life situation I talk
+
+about how I could for example use a
+
+trigonometric function instead of a
+
+constant and how this would lead me to
+
+using a very similar method but instead
+
+I would have to use integration by parts
+
+and one of my steps and I also talk
+
+about how this differential equation
+
+could be used for other drugs and by
+
+plugging in the constants and values for
+
+other drugs I could compare the
+
+concentration versus time function of
+
+different drugs with different factors
+
+for example solubility in your
+
+conclusion you should be diving really
+
+deep into what you can do to make your
+
+method better and you can simply wrap up
+
+your IA after this I basically conclude
+
+by saying I can conclude that a dosage
+
+of 250 milligrams is a healthy and safe
+
+dosage of amoxicillin and that basically
+
+is the answer to the aim I was talking
+
+about initially you should show at the
+
+end of your IA that the purpose was
+
+fulfilled and that you met your goal by
+
+using your mathematical model
+
+well guys that's it for today's video if
+
+you have any questions just comment down
+
+below I hope this was somewhat helpful I
+
+think that the Mass Eye it sounds like a
+
+very daunting task it doesn't have to be
+
+too complicated just make sure that you
+
+come up with an idea ahead of time I
+
+would say that the math I probably takes
+
+approximately a week to complete you
+
+know if you're working on it every day
+
+for a couple of hours an hour or two you
+
+can probably get it done I will make
+
+sure to cite all the textbooks that I
+
+referred to in this video and include
+
+some links to videos that
+
+very helpful anyway goodbye have a good
+
+one
+
+[Music]
+

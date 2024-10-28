@@ -1,0 +1,4 @@
+I want you to help me in making this IA.
+I have this really old video of my swimming technique, what's great about it is that is is taken from three angles, one from inside the water and the other two are from outside the water.
+What could make this potentially difficult to work with is that they aren't really aligned with each other, the one below the water has an orthogonal angled view of me and the ones above the water, not so much.
+I also want to know how can I mark the points and track them throughout this video. is there any special software. what is this kind of software called?
