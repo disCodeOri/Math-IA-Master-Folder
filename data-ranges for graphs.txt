@@ -1,0 +1,20 @@
+-------------------------------
+Bolt 2008-2016:
+- Bolt 2008-2016/A1/Horizontal
+  B14:B57,D22:D68
+- Bolt 2008-2016/A2/Horizontal
+  C14:C60,E22:E68
+- Bolt 2008-2016/A1/Vertical
+  G14:G60,I22:I68
+- Bolt 2008-2016/A2/Vertical
+  J20:J67,H14:H56
+-------------------------------
+Bolt-Gatlin-2016:
+- Bolt-Gatlin-2016/A1/Horizontal
+  O14:O60,M14:M55
+- Bolt-Gatlin-2016/A2/Horizontal
+  P14:P59,N14:N55
+- Bolt-Gatlin-2016/A1/Vertical
+  T14:T61,R14:R55
+- Bolt-Gatlin-2016/A2/Vertical
+  U14:U59,S14:S55

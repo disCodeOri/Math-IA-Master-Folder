@@ -1,0 +1,128 @@
+Planned IA structure:
+```
+1. Introduction, Purpose, ...
+2. Research Question
+3. Rationale (Everything about the process which you are going to follow)
+4. Research and Data Collection
+5. All the graphs (using tools) along with the video snippets pictures (reference: video links), the csv data in table for noise cancellation process and then the reference to the code that generates the and the graphs in main part.
+6. Now the corrected CSV (amplitude with respect to time) data table along with its Mathematical explanation from FFT.
+7. Statistical analysis for Comparison- between 2 different years for Bolt and then between Bolt and Justin
+2016.
+(2008 and 2016 for Bolt and 2016 for Justin G)
+8. Result...
+```
+Additional notes:
+
+Purpose:
+Identifying the differences in stride patterns in Usain Bolt's 2008 and 2016 olympic performance and the differences in stride of usain bolt and Justin gatlin in the 2016 Olympics. for the final 100mtr sprint event.
+
+For the statistical analysis my teacher told me something about the pearson correlation coefficient. And she is yet to teach me about that so yeah. and i'm not so aware of what the process really is for the statistical analysis.
+
+For the data collection I used kinovea to extract points of motion of Usain bolt's and Gatlin's ankles and knees, with their hips being the point of origin for their own respective motion. And the y axis being aligned with their torso.
+
+And I used FFT from Sci py to remove any noise that was generated due to camera motion, and that was actually done by separately tracking the motion of the hip and then using the FFT algorithm in scipy to remove the noise. I have attached the code.
+
+```py
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.fft import fft
+from matplotlib.widgets import RadioButtons
+from scipy.signal import savgol_filter
+
+# Load data and drop rows with missing values
+df = pd.read_csv("Bolt ankles vertical position graph values.csv").dropna()
+time = df["Time (ms)"].values / 1000  # Convert ms to seconds
+ankle1 = df["Ankle 1"].values
+ankle2 = df["Ankle 2"].values
+hip = df["2008 hip"].values
+
+def remove_camera_shake(ankle_signal, hip_signal):
+    # The hip should ideally have minimal vertical movement
+    # So we can treat hip motion as camera shake
+    # Simply subtract the hip motion to stabilize the view
+    stabilized_motion = ankle_signal - hip_signal
+
+    # Optional: Smooth out any high-frequency noise
+    window = 11  # Smaller window to preserve more detail
+    stabilized_smooth = savgol_filter(stabilized_motion, window, 3)
+
+    return stabilized_smooth
+
+# Apply to both ankles
+ankle1_cleaned = remove_camera_shake(ankle1, hip)
+ankle2_cleaned = remove_camera_shake(ankle2, hip)
+
+# Create a DataFrame with the cleaned data
+cleaned_data = pd.DataFrame({
+    'Time (s)': time,
+    'Cleaned Ankle 1': ankle1_cleaned,
+    'Cleaned Ankle 2': ankle2_cleaned,
+    'Original Ankle 1': ankle1,
+    'Original Ankle 2': ankle2,
+    'Hip Position': hip
+})
+
+# Export to a new CSV file
+output_filepath = "cleaned_ankle_data.csv"
+cleaned_data.to_csv(output_filepath, index=False)
+print(f"Cleaned data saved to: {output_filepath}")
+
+# Create figure and subplots
+fig, ax = plt.subplots(figsize=(12, 6))
+plt.subplots_adjust(left=0.3)  # Make room for radio buttons
+
+# Calculate frequency domain data for both ankles
+freq = np.fft.fftfreq(len(time), d=(time[1]-time[0]))
+ankle1_fft_clean = fft(ankle1_cleaned)
+ankle2_fft_clean = fft(ankle2_cleaned)
+power_clean1 = np.abs(ankle1_fft_clean)**2
+power_clean2 = np.abs(ankle2_fft_clean)**2
+
+# Create radio buttons for domain selection
+rax1 = plt.axes([0.05, 0.7, 0.2, 0.15])
+radio_domain = RadioButtons(rax1, ('Time Domain', 'Frequency Domain'))
+
+# Create radio buttons for ankle selection
+rax2 = plt.axes([0.05, 0.4, 0.2, 0.15])
+radio_ankle = RadioButtons(rax2, ('Ankle 1', 'Ankle 2'))
+
+def update_plot():
+    ax.clear()
+    domain = radio_domain.value_selected
+    ankle = radio_ankle.value_selected
+
+    if domain == 'Time Domain':
+        if ankle == 'Ankle 1':
+            ax.plot(time, ankle1, 'b', alpha=0.5, label="Raw Ankle 1")
+            ax.plot(time, ankle1_cleaned, 'r', label="Cleaned Ankle 1")
+        else:
+            ax.plot(time, ankle2, 'b', alpha=0.5, label="Raw Ankle 2")
+            ax.plot(time, ankle2_cleaned, 'r', label="Cleaned Ankle 2")
+        ax.set_xlabel("Time (s)")
+        ax.set_ylabel("Position")
+        ax.set_title(f"{ankle}: Raw vs. Cleaned")
+        ax.legend()
+    else:
+        if ankle == 'Ankle 1':
+            ax.plot(freq[:len(freq)//2], power_clean1[:len(freq)//2], 'g')
+        else:
+            ax.plot(freq[:len(freq)//2], power_clean2[:len(freq)//2], 'g')
+        ax.set_xlabel("Frequency (Hz)")
+        ax.set_ylabel("Power")
+        ax.set_title(f"{ankle} Power Spectrum")
+    fig.canvas.draw_idle()
+
+# Initial plot
+update_plot()
+
+# Connect radio button events
+radio_domain.on_clicked(lambda x: update_plot())
+radio_ankle.on_clicked(lambda x: update_plot())
+
+plt.show()
+```
+
+I need to write up a draft until the 6th point since stats hasn't been covered yet.
+
+Please do ask me anything that you can possibly need to be crystal clear with whatever's going on.

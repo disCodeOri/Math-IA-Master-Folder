@@ -1,0 +1,980 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.2023.1.2</Producer>
+  <OriginalFilename>yt1s.com - 2008 2012 2016 Olympics Athletics Mens 100m Final Side View_1080p</OriginalFilename>
+  <FullPath>C:\Users\DELL\Desktop\Math IA\Math IA Bolt and Gatlin\yt1s.com - 2008 2012 2016 Olympics Athletics Mens 100m Final Side View_1080p.mp4</FullPath>
+  <ImageSize>1920;1080</ImageSize>
+  <Aspect>Auto</Aspect>
+  <Rotation>Rotate0</Rotation>
+  <Mirror>false</Mirror>
+  <Demosaicing>None</Demosaicing>
+  <Deinterlacing>false</Deinterlacing>
+  <AverageTimeStampsPerFrame>1001</AverageTimeStampsPerFrame>
+  <CaptureFramerate>29.97002997003</CaptureFramerate>
+  <UserFramerate>29.97002997003</UserFramerate>
+  <FirstTimeStamp>0</FirstTimeStamp>
+  <SelectionStart>0</SelectionStart>
+  <SelectionEnd>1757929</SelectionEnd>
+  <TimeOrigin>580580</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>100</Length>
+      <Segment>
+        <A>1365.486;317.8055</A>
+        <B>1349.327;482.0948</B>
+      </Segment>
+      <Origin>162.3282;364.4469</Origin>
+      <Axis>LineHorizontal</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>2c8ffc0d-8a07-4669-99b1-378b324ad01f</CalibrationDrawingId>
+    <Unit Abbreviation="cm">Centimeters</Unit>
+  </Calibration>
+  <Keyframes>
+    <Keyframe id="ab17a416-0524-4ca1-814c-c2891fac2085">
+      <Timestamp>344344</Timestamp>
+      <Name>- 7.71</Name>
+      <Color>70;130;180</Color>
+    </Keyframe>
+    <Keyframe id="a5ff7766-e5eb-4dc0-8792-b2217e4ebdc6">
+      <Timestamp>580580</Timestamp>
+      <Name>0.17</Name>
+      <Color>70;130;180</Color>
+      <Drawings>
+        <CrossMark id="77acfe76-0920-4088-ad22-7679dc12d3cc" name="2008 hip">
+          <CenterPoint>1564.773;450.3865</CenterPoint>
+          <ExtraData>Position</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>984.5308;25.86034</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="bb188684-6a21-4413-b69d-e3bf8f0b5cd9">
+      <Timestamp>755755</Timestamp>
+      <Name>6.00</Name>
+      <Color>70;130;180</Color>
+    </Keyframe>
+    <Keyframe id="af3a1ee9-f762-41df-8202-fb89a55782ff">
+      <Timestamp>1094093</Timestamp>
+      <Name>17.12</Name>
+      <Color>70;130;180</Color>
+    </Keyframe>
+    <Keyframe id="462dc3dd-9f27-463d-a91e-57851ada26f4">
+      <Timestamp>1221220</Timestamp>
+      <Name>21.52</Name>
+      <Color>70;130;180</Color>
+    </Keyframe>
+  </Keyframes>
+  <Chronos>
+    <ChronoMulti id="7f8d18fa-f4ea-43e0-94c8-13534aa96b21" name="Advanced stopwatch 1">
+      <Position>1675.736;926.4975</Position>
+      <Values>
+        <Visible>580580</Visible>
+        <Invisible>678678</Invisible>
+        <Sections>
+          <Section>580580;663663</Section>
+        </Sections>
+        <Locked>false</Locked>
+        <VisibleColumns>Name;Duration;Cumul;Tag</VisibleColumns>
+      </Values>
+      <Label>
+        <Show>false</Show>
+      </Label>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;0;0;0</Value>
+        </Color>
+        <FontSize Key="font size">
+          <Value>18</Value>
+        </FontSize>
+      </DrawingStyle>
+    </ChronoMulti>
+    <ChronoMulti id="ece4ecc6-1a8f-45fc-8f33-19664ecf1b5b" name="Advanced stopwatch 2">
+      <Position>1753.043;992.795</Position>
+      <Values>
+        <Visible>1221220</Visible>
+        <Invisible>1275274</Invisible>
+        <Sections>
+          <Section>1221220;1275274</Section>
+        </Sections>
+        <Locked>false</Locked>
+        <VisibleColumns>Name;Duration;Cumul;Tag</VisibleColumns>
+      </Values>
+      <Label>
+        <Show>false</Show>
+      </Label>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;0;0;0</Value>
+        </Color>
+        <FontSize Key="font size">
+          <Value>18</Value>
+        </FontSize>
+      </DrawingStyle>
+    </ChronoMulti>
+    <ChronoMulti id="96da1a71-c4f9-42c9-94c2-460a93ccacb7" name="Advanced stopwatch 3">
+      <Position>1748.571;972.6708</Position>
+      <Values>
+        <Visible>755755</Visible>
+        <Invisible>941941</Invisible>
+        <Sections>
+          <Section>755755;941941</Section>
+        </Sections>
+        <Locked>false</Locked>
+        <VisibleColumns>Name;Duration;Cumul;Tag</VisibleColumns>
+      </Values>
+      <Label>
+        <Show>false</Show>
+      </Label>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;0;0;0</Value>
+        </Color>
+        <FontSize Key="font size">
+          <Value>18</Value>
+        </FontSize>
+      </DrawingStyle>
+    </ChronoMulti>
+  </Chronos>
+  <Tracks>
+    <Track id="811d1c58-e6e2-43cd-9d72-800a3fc4c8a3" name="Ankle 1">
+      <TimePosition>580580</TimePosition>
+      <Visible>0</Visible>
+      <Invisible>663663</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Cross</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>384;216</SearchWindow>
+        <BlockWindow>96;54</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="80">
+        <TrackPoint>1531.371;765.6853;580580</TrackPoint>
+        <TrackPoint>1440.716;813.3796;581581</TrackPoint>
+        <TrackPoint>1308.18;806.3894;582582</TrackPoint>
+        <TrackPoint>1233.13;788.6025;583583</TrackPoint>
+        <TrackPoint>1170.267;736.5605;584584</TrackPoint>
+        <TrackPoint>1145.257;674.7544;585585</TrackPoint>
+        <TrackPoint>1168.152;605.271;586586</TrackPoint>
+        <TrackPoint>1241.249;563.2405;587587</TrackPoint>
+        <TrackPoint>1270.487;559.5858;588588</TrackPoint>
+        <TrackPoint>1310.69;581.5147;589589</TrackPoint>
+        <TrackPoint>1380.922;636.3372;590590</TrackPoint>
+        <TrackPoint>1432.364;671.8865;591591</TrackPoint>
+        <TrackPoint>1536.12;729.5721;592592</TrackPoint>
+        <TrackPoint>1550.739;754.1616;593593</TrackPoint>
+        <TrackPoint>1486.78;796.1921;594594</TrackPoint>
+        <TrackPoint>1410.893;805.6141;595595</TrackPoint>
+        <TrackPoint>1284.588;784.6614;596596</TrackPoint>
+        <TrackPoint>1212.238;761.2584;597597</TrackPoint>
+        <TrackPoint>1163.923;697.6457;598598</TrackPoint>
+        <TrackPoint>1178.781;598.9052;599599</TrackPoint>
+        <TrackPoint>1226.188;554.2191;600600</TrackPoint>
+        <TrackPoint>1291.356;530.2997;601601</TrackPoint>
+        <TrackPoint>1333.778;543.3352;602602</TrackPoint>
+        <TrackPoint>1357.535;576.2286;603603</TrackPoint>
+        <TrackPoint>1436.768;650.8084;604604</TrackPoint>
+        <TrackPoint>1545.079;716.2468;605605</TrackPoint>
+        <TrackPoint>1596.785;735.8631;606606</TrackPoint>
+        <TrackPoint>1594.921;748.6515;607607</TrackPoint>
+        <TrackPoint>1505.377;788.8545;608608</TrackPoint>
+        <TrackPoint>1387.461;792.8236;609609</TrackPoint>
+        <TrackPoint>1307.03;768.7084;610610</TrackPoint>
+        <TrackPoint>1241.857;719.5003;611611</TrackPoint>
+        <TrackPoint>1218.334;660.3666;612612</TrackPoint>
+        <TrackPoint>1241.827;571.2047;613613</TrackPoint>
+        <TrackPoint>1328.689;524.6863;614614</TrackPoint>
+        <TrackPoint>1366.689;520.687;615615</TrackPoint>
+        <TrackPoint>1401.41;546.2708;616616</TrackPoint>
+        <TrackPoint>1469.816;610.2311;617617</TrackPoint>
+        <TrackPoint>1525.6;664.5322;618618</TrackPoint>
+        <TrackPoint>1594.931;708.5583;619619</TrackPoint>
+        <TrackPoint>1618.204;739.4452;620620</TrackPoint>
+        <TrackPoint>1563.139;769.2332;621621</TrackPoint>
+        <TrackPoint>1464.291;781.7072;622622</TrackPoint>
+        <TrackPoint>1329.499;750.7906;623623</TrackPoint>
+        <TrackPoint>1270.738;726.2236;624624</TrackPoint>
+        <TrackPoint>1216.769;664.2687;625625</TrackPoint>
+        <TrackPoint>1220.423;560.1062;626626</TrackPoint>
+        <TrackPoint>1291.906;506.7662;627627</TrackPoint>
+        <TrackPoint>1315.662;495.8018;628628</TrackPoint>
+        <TrackPoint>1330.282;499.4566;629629</TrackPoint>
+        <TrackPoint>1350.383;541.4871;630630</TrackPoint>
+        <TrackPoint>1395.86;596.3043;631631</TrackPoint>
+        <TrackPoint>1469.555;663.2286;632632</TrackPoint>
+        <TrackPoint>1525.482;696.7445;633633</TrackPoint>
+        <TrackPoint>1557.025;706.8781;634634</TrackPoint>
+        <TrackPoint>1502.234;737.9269;635635</TrackPoint>
+        <TrackPoint>1412.58;738.9373;636636</TrackPoint>
+        <TrackPoint>1323.58;739.9465;637637</TrackPoint>
+        <TrackPoint>1238.925;709.8533;638638</TrackPoint>
+        <TrackPoint>1189.199;663.3447;639639</TrackPoint>
+        <TrackPoint>1167.539;590.4296;640640</TrackPoint>
+        <TrackPoint>1207.523;523.336;641641</TrackPoint>
+        <TrackPoint>1249.554;505.0619;642642</TrackPoint>
+        <TrackPoint>1293.345;507.8922;643643</TrackPoint>
+        <TrackPoint>1325.487;526.5834;644644</TrackPoint>
+        <TrackPoint>1361.861;562.1346;645645</TrackPoint>
+        <TrackPoint>1441.576;616.7809;646646</TrackPoint>
+        <TrackPoint>1525.368;649.673;647647</TrackPoint>
+        <TrackPoint>1553.643;664.8182;648648</TrackPoint>
+        <TrackPoint>1536.953;687.5568;649649</TrackPoint>
+        <TrackPoint>1475.898;708.9437;650650</TrackPoint>
+        <TrackPoint>1402.553;697.3267;651651</TrackPoint>
+        <TrackPoint>1349.03;683.088;652652</TrackPoint>
+        <TrackPoint>1325.996;658.4788;653653</TrackPoint>
+        <TrackPoint>1327.852;615.634;654654</TrackPoint>
+        <TrackPoint>1358.09;563.4682;655655</TrackPoint>
+        <TrackPoint>1421.191;534.812;656656</TrackPoint>
+        <TrackPoint>1467.709;531.6407;657657</TrackPoint>
+        <TrackPoint>1507.297;535.473;658658</TrackPoint>
+        <TrackPoint>1508.297;537.472;659659</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Ankle 1">
+        <SpacePosition>1511.371;715.6853</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>false</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;178;34;34</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="2c28a3a3-46f0-454f-ae5e-dffddd6a1899" name="Ankle 2">
+      <TimePosition>580580</TimePosition>
+      <Visible>580580</Visible>
+      <Invisible>663663</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Cross</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>384;216</SearchWindow>
+        <BlockWindow>96;54</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="82">
+        <TrackPoint>1196.273;581.3665;580580</TrackPoint>
+        <TrackPoint>1272.272;562.3621;581581</TrackPoint>
+        <TrackPoint>1291.065;572.0245;582582</TrackPoint>
+        <TrackPoint>1336.822;636.8461;583583</TrackPoint>
+        <TrackPoint>1445.685;702.0447;584584</TrackPoint>
+        <TrackPoint>1517.949;727.4556;585585</TrackPoint>
+        <TrackPoint>1555.457;745.8987;586586</TrackPoint>
+        <TrackPoint>1509.112;780.7834;587587</TrackPoint>
+        <TrackPoint>1425.005;814.8268;588588</TrackPoint>
+        <TrackPoint>1327.432;809.1694;589589</TrackPoint>
+        <TrackPoint>1213.914;775.5804;590590</TrackPoint>
+        <TrackPoint>1173.223;743.7105;591591</TrackPoint>
+        <TrackPoint>1146.777;659.6484;592592</TrackPoint>
+        <TrackPoint>1197.589;576.0967;593593</TrackPoint>
+        <TrackPoint>1261.903;557.6826;594594</TrackPoint>
+        <TrackPoint>1311.243;550.3729;595595</TrackPoint>
+        <TrackPoint>1344.136;599.7131;596596</TrackPoint>
+        <TrackPoint>1379.404;639.9168;597597</TrackPoint>
+        <TrackPoint>1500.806;711.0133;598598</TrackPoint>
+        <TrackPoint>1582.207;734.9319;599599</TrackPoint>
+        <TrackPoint>1569.38;755.0339;600600</TrackPoint>
+        <TrackPoint>1516.726;791.1617;601601</TrackPoint>
+        <TrackPoint>1370.107;799.6536;602602</TrackPoint>
+        <TrackPoint>1290.31;789.8878;603603</TrackPoint>
+        <TrackPoint>1215.615;753.6884;604604</TrackPoint>
+        <TrackPoint>1168.062;678.0974;605605</TrackPoint>
+        <TrackPoint>1197.3;583.072;606606</TrackPoint>
+        <TrackPoint>1263.362;539.2149;607607</TrackPoint>
+        <TrackPoint>1336.224;526.869;608608</TrackPoint>
+        <TrackPoint>1358.153;537.8334;609609</TrackPoint>
+        <TrackPoint>1404.291;603.1748;610610</TrackPoint>
+        <TrackPoint>1505.88;676.3729;611611</TrackPoint>
+        <TrackPoint>1613.149;714.2651;612612</TrackPoint>
+        <TrackPoint>1638.484;734.5427;613613</TrackPoint>
+        <TrackPoint>1606.658;757.4493;614614</TrackPoint>
+        <TrackPoint>1539.829;784.0816;615615</TrackPoint>
+        <TrackPoint>1412.829;787.1237;616616</TrackPoint>
+        <TrackPoint>1315.449;778.1025;617617</TrackPoint>
+        <TrackPoint>1241.175;736.0567;618618</TrackPoint>
+        <TrackPoint>1209.652;632.0562;619619</TrackPoint>
+        <TrackPoint>1266.362;542.689;620620</TrackPoint>
+        <TrackPoint>1326.403;514.8691;621621</TrackPoint>
+        <TrackPoint>1391.403;512.8781;622622</TrackPoint>
+        <TrackPoint>1384.439;557.5707;623623</TrackPoint>
+        <TrackPoint>1404.85;603.2507;624624</TrackPoint>
+        <TrackPoint>1509.144;677.8655;625625</TrackPoint>
+        <TrackPoint>1589.592;708.5881;626626</TrackPoint>
+        <TrackPoint>1595.42;716.7236;627627</TrackPoint>
+        <TrackPoint>1556.557;742.308;628628</TrackPoint>
+        <TrackPoint>1430.765;764.3987;629629</TrackPoint>
+        <TrackPoint>1350.663;761.7551;630630</TrackPoint>
+        <TrackPoint>1269.08;727.0154;631631</TrackPoint>
+        <TrackPoint>1205.491;659.5763;632632</TrackPoint>
+        <TrackPoint>1194.039;576.481;633633</TrackPoint>
+        <TrackPoint>1212.998;529.1553;634634</TrackPoint>
+        <TrackPoint>1291.577;505.3989;635635</TrackPoint>
+        <TrackPoint>1305.302;507.5697;636636</TrackPoint>
+        <TrackPoint>1311.795;539.3607;637637</TrackPoint>
+        <TrackPoint>1356.861;606.7996;638638</TrackPoint>
+        <TrackPoint>1409.161;645.1746;639639</TrackPoint>
+        <TrackPoint>1493.222;678.068;640640</TrackPoint>
+        <TrackPoint>1525.496;685.2014;641641</TrackPoint>
+        <TrackPoint>1483.014;710.7791;642642</TrackPoint>
+        <TrackPoint>1425.842;714.4167;643643</TrackPoint>
+        <TrackPoint>1327.841;716.4431;644644</TrackPoint>
+        <TrackPoint>1262.222;700.0114;645645</TrackPoint>
+        <TrackPoint>1226.496;669.9469;646646</TrackPoint>
+        <TrackPoint>1225.354;614.297;647647</TrackPoint>
+        <TrackPoint>1265.624;562.3022;648648</TrackPoint>
+        <TrackPoint>1314.099;545.0576;649649</TrackPoint>
+        <TrackPoint>1386.956;544.7126;650650</TrackPoint>
+        <TrackPoint>1419.439;559.1547;651651</TrackPoint>
+        <TrackPoint>1492.845;589.8752;652652</TrackPoint>
+        <TrackPoint>1590.006;607.1523;653653</TrackPoint>
+        <TrackPoint>1651.616;615.6258;654654</TrackPoint>
+        <TrackPoint>1668.927;622.6961;655655</TrackPoint>
+        <TrackPoint>1650.481;650.8676;656656</TrackPoint>
+        <TrackPoint>1620.1;673.9747;657657</TrackPoint>
+        <TrackPoint>1543.825;690.6094;658658</TrackPoint>
+        <TrackPoint>1467.342;684.5116;659659</TrackPoint>
+        <TrackPoint>1420.307;664.7309;660660</TrackPoint>
+        <TrackPoint>1403.647;615.7366;661661</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Ankle 2">
+        <SpacePosition>1176.273;531.3665</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;139;0;139</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="ffd52ab9-f328-4687-beaf-43d9fd1f87c5" name="Ankle 3">
+      <TimePosition>1221220</TimePosition>
+      <Visible>1221220</Visible>
+      <Invisible>1275274</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Cross</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>384;216</SearchWindow>
+        <BlockWindow>96;54</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="55">
+        <TrackPoint>741.929;557.3604;1221220</TrackPoint>
+        <TrackPoint>800.4061;539.0863;1222221</TrackPoint>
+        <TrackPoint>835.127;559.1879;1223222</TrackPoint>
+        <TrackPoint>850.3001;608.5308;1224223</TrackPoint>
+        <TrackPoint>910.6047;665.1805;1225224</TrackPoint>
+        <TrackPoint>984.9058;707.1974;1226225</TrackPoint>
+        <TrackPoint>1029.526;725.4502;1227226</TrackPoint>
+        <TrackPoint>1025.144;740.0455;1228227</TrackPoint>
+        <TrackPoint>975.1459;765.0409;1229228</TrackPoint>
+        <TrackPoint>891.085;779.6602;1230229</TrackPoint>
+        <TrackPoint>798.4323;763.1682;1231230</TrackPoint>
+        <TrackPoint>736.4338;733.9217;1232231</TrackPoint>
+        <TrackPoint>699.8856;684.5816;1233232</TrackPoint>
+        <TrackPoint>713.5383;615.2056;1234233</TrackPoint>
+        <TrackPoint>764.7057;571.3477;1235234</TrackPoint>
+        <TrackPoint>823.1829;556.7284;1236235</TrackPoint>
+        <TrackPoint>868.1482;564.9359;1237236</TrackPoint>
+        <TrackPoint>882.7675;608.7938;1238237</TrackPoint>
+        <TrackPoint>939.3425;664.1633;1239238</TrackPoint>
+        <TrackPoint>1019.749;706.1938;1240239</TrackPoint>
+        <TrackPoint>1073.199;722.6191;1241240</TrackPoint>
+        <TrackPoint>1077.683;738.2625;1242241</TrackPoint>
+        <TrackPoint>1027.203;758.4742;1243242</TrackPoint>
+        <TrackPoint>946.7964;774.9209;1244243</TrackPoint>
+        <TrackPoint>862.7947;760.1437;1245244</TrackPoint>
+        <TrackPoint>804.3176;736.3873;1246245</TrackPoint>
+        <TrackPoint>771.4242;681.565;1247246</TrackPoint>
+        <TrackPoint>781.4865;616.498;1248247</TrackPoint>
+        <TrackPoint>838.5923;564.504;1249248</TrackPoint>
+        <TrackPoint>910.5498;544.233;1250249</TrackPoint>
+        <TrackPoint>954.4077;557.0248;1251250</TrackPoint>
+        <TrackPoint>979.9915;589.9182;1252251</TrackPoint>
+        <TrackPoint>1029.332;650.2228;1253252</TrackPoint>
+        <TrackPoint>1114.81;695.1129;1254253</TrackPoint>
+        <TrackPoint>1192.427;720.6774;1255254</TrackPoint>
+        <TrackPoint>1223.08;726.2029;1256255</TrackPoint>
+        <TrackPoint>1209.08;746.5197;1257256</TrackPoint>
+        <TrackPoint>1149.737;764.6665;1258257</TrackPoint>
+        <TrackPoint>1073.569;757.1826;1259258</TrackPoint>
+        <TrackPoint>1013.265;729.7714;1260259</TrackPoint>
+        <TrackPoint>980.371;689.5683;1261260</TrackPoint>
+        <TrackPoint>970.0947;627.442;1262261</TrackPoint>
+        <TrackPoint>997.5058;568.9648;1263262</TrackPoint>
+        <TrackPoint>1050.501;539.7263;1264263</TrackPoint>
+        <TrackPoint>1099.841;541.5537;1265264</TrackPoint>
+        <TrackPoint>1116.287;567.1375;1266265</TrackPoint>
+        <TrackPoint>1122.563;618.2336;1267266</TrackPoint>
+        <TrackPoint>1171.276;677.5002;1268267</TrackPoint>
+        <TrackPoint>1222.584;719.7076;1269268</TrackPoint>
+        <TrackPoint>1242.685;737.9817;1270269</TrackPoint>
+        <TrackPoint>1206.859;753.9825;1271270</TrackPoint>
+        <TrackPoint>1133.513;776.8466;1272271</TrackPoint>
+        <TrackPoint>1009.206;782.5338;1273272</TrackPoint>
+        <TrackPoint>905.5129;766.2536;1274273</TrackPoint>
+        <TrackPoint>818.8251;744.4922;1275274</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Ankle 3">
+        <SpacePosition>721.929;507.3604</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;255;215;0</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="9460c6d8-8bde-4f06-bbd9-12beede0da4e" name="Ankle 4">
+      <TimePosition>1221220</TimePosition>
+      <Visible>1221220</Visible>
+      <Invisible>1275274</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Cross</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>384;216</SearchWindow>
+        <BlockWindow>96;54</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="55">
+        <TrackPoint>1019.695;747.4112;1221220</TrackPoint>
+        <TrackPoint>950.0424;769.7527;1222221</TrackPoint>
+        <TrackPoint>854.0436;767.8232;1223222</TrackPoint>
+        <TrackPoint>777.2924;745.8942;1224223</TrackPoint>
+        <TrackPoint>727.9523;705.6912;1225224</TrackPoint>
+        <TrackPoint>698.3139;652.691;1226225</TrackPoint>
+        <TrackPoint>723.8976;590.559;1227226</TrackPoint>
+        <TrackPoint>769.5829;557.6656;1228227</TrackPoint>
+        <TrackPoint>818.5833;556.6508;1229228</TrackPoint>
+        <TrackPoint>851.4767;574.9249;1230229</TrackPoint>
+        <TrackPoint>881.3331;614.8188;1231230</TrackPoint>
+        <TrackPoint>936.2577;669.9487;1232231</TrackPoint>
+        <TrackPoint>1009.211;701.8457;1233232</TrackPoint>
+        <TrackPoint>1052.003;720.1294;1234233</TrackPoint>
+        <TrackPoint>1044;738.6013;1235234</TrackPoint>
+        <TrackPoint>994.6596;764.185;1236235</TrackPoint>
+        <TrackPoint>908.7713;769.6672;1237236</TrackPoint>
+        <TrackPoint>821.7747;755.0375;1238237</TrackPoint>
+        <TrackPoint>773.4407;720.301;1239238</TrackPoint>
+        <TrackPoint>744.2021;667.306;1240239</TrackPoint>
+        <TrackPoint>753.9592;602.4567;1241240</TrackPoint>
+        <TrackPoint>806.9542;560.4263;1242241</TrackPoint>
+        <TrackPoint>861.7766;554.944;1243242</TrackPoint>
+        <TrackPoint>895.8517;568.0869;1244243</TrackPoint>
+        <TrackPoint>939.1962;608.3558;1245244</TrackPoint>
+        <TrackPoint>974.9792;661.4932;1246245</TrackPoint>
+        <TrackPoint>1052.59;702.5182;1247246</TrackPoint>
+        <TrackPoint>1114.035;724.4557;1248247</TrackPoint>
+        <TrackPoint>1122.206;736.2943;1249248</TrackPoint>
+        <TrackPoint>1085.658;754.5684;1250249</TrackPoint>
+        <TrackPoint>1008.907;765.5328;1251250</TrackPoint>
+        <TrackPoint>934.7352;748.9694;1252251</TrackPoint>
+        <TrackPoint>896.3596;721.5582;1253252</TrackPoint>
+        <TrackPoint>874.4307;670.3907;1254253</TrackPoint>
+        <TrackPoint>883.5677;606.4313;1255254</TrackPoint>
+        <TrackPoint>929.2531;553.4363;1256255</TrackPoint>
+        <TrackPoint>998.6947;536.9897;1257256</TrackPoint>
+        <TrackPoint>1057.172;547.9541;1258257</TrackPoint>
+        <TrackPoint>1090.065;577.1926;1259258</TrackPoint>
+        <TrackPoint>1131.75;628.3616;1260259</TrackPoint>
+        <TrackPoint>1212.156;679.5292;1261260</TrackPoint>
+        <TrackPoint>1279.467;713.4272;1262261</TrackPoint>
+        <TrackPoint>1312.36;728.0465;1263262</TrackPoint>
+        <TrackPoint>1286.707;745.3866;1264263</TrackPoint>
+        <TrackPoint>1216.017;766.5439;1265264</TrackPoint>
+        <TrackPoint>1122.843;761.0942;1266265</TrackPoint>
+        <TrackPoint>1036.955;739.1653;1267266</TrackPoint>
+        <TrackPoint>978.4778;704.4445;1268267</TrackPoint>
+        <TrackPoint>929.1376;642.3126;1269268</TrackPoint>
+        <TrackPoint>925.4828;583.8354;1270269</TrackPoint>
+        <TrackPoint>949.2391;556.4244;1271270</TrackPoint>
+        <TrackPoint>976.4117;555.4369;1272271</TrackPoint>
+        <TrackPoint>970.9295;579.1932;1273272</TrackPoint>
+        <TrackPoint>958.715;617.8516;1274273</TrackPoint>
+        <TrackPoint>986.1584;678.8098;1275274</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Ankle 4">
+        <SpacePosition>999.6954;697.4112</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;255;140;0</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="782e3e10-be46-4a48-bd29-0768b16c12b8" name="Ankle 5">
+      <TimePosition>1094093</TimePosition>
+      <Visible>1094093</Visible>
+      <Invisible>1177176</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Cross</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>384;216</SearchWindow>
+        <BlockWindow>96;54</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="90">
+        <TrackPoint>824.834;587.3012;1094093</TrackPoint>
+        <TrackPoint>865.9252;585.39;1095094</TrackPoint>
+        <TrackPoint>893.1146;595.5861;1096095</TrackPoint>
+        <TrackPoint>927.1014;626.1741;1097096</TrackPoint>
+        <TrackPoint>983.2205;650.5524;1098097</TrackPoint>
+        <TrackPoint>1030.515;662.4533;1099098</TrackPoint>
+        <TrackPoint>1039.612;669.749;1100099</TrackPoint>
+        <TrackPoint>1008.045;686.7526;1101100</TrackPoint>
+        <TrackPoint>954.0434;695.7589;1102101</TrackPoint>
+        <TrackPoint>899.6644;685.5629;1103102</TrackPoint>
+        <TrackPoint>858.8804;670.2689;1104103</TrackPoint>
+        <TrackPoint>845.424;635.0988;1105104</TrackPoint>
+        <TrackPoint>852.8901;599.6036;1106105</TrackPoint>
+        <TrackPoint>897.4589;576.1464;1107106</TrackPoint>
+        <TrackPoint>939.682;572.6277;1108107</TrackPoint>
+        <TrackPoint>971.3495;587.875;1109108</TrackPoint>
+        <TrackPoint>999.2571;620.0466;1110109</TrackPoint>
+        <TrackPoint>1054.169;647.0963;1111110</TrackPoint>
+        <TrackPoint>1099.069;659.8315;1112111</TrackPoint>
+        <TrackPoint>1101.585;673.1747;1113112</TrackPoint>
+        <TrackPoint>1063.726;693.0978;1114113</TrackPoint>
+        <TrackPoint>1006.904;700.7565;1115114</TrackPoint>
+        <TrackPoint>945.3896;692.5502;1116115</TrackPoint>
+        <TrackPoint>910.2037;674.9573;1117116</TrackPoint>
+        <TrackPoint>893.7836;632.7342;1118117</TrackPoint>
+        <TrackPoint>926.0834;597.585;1119118</TrackPoint>
+        <TrackPoint>954.2322;583.5106;1120119</TrackPoint>
+        <TrackPoint>987.0724;589.3749;1121120</TrackPoint>
+        <TrackPoint>1019.913;603.4493;1122121</TrackPoint>
+        <TrackPoint>1048.666;637.8076;1123122</TrackPoint>
+        <TrackPoint>1097.926;660.092;1124123</TrackPoint>
+        <TrackPoint>1132.825;673.9969;1125124</TrackPoint>
+        <TrackPoint>1119.82;687.9901;1126125</TrackPoint>
+        <TrackPoint>1071.954;705.5617;1127126</TrackPoint>
+        <TrackPoint>1003.979;709.8614;1128127</TrackPoint>
+        <TrackPoint>937.1263;696.9598;1129128</TrackPoint>
+        <TrackPoint>896.0761;677.0212;1130129</TrackPoint>
+        <TrackPoint>882.0017;638.3167;1131130</TrackPoint>
+        <TrackPoint>903.1132;601.9579;1132131</TrackPoint>
+        <TrackPoint>937.1263;587.8835;1133132</TrackPoint>
+        <TrackPoint>951.2006;594.9207;1134133</TrackPoint>
+        <TrackPoint>977.0036;612.5137;1135134</TrackPoint>
+        <TrackPoint>1001.238;645.045;1136135</TrackPoint>
+        <TrackPoint>1049.325;668.5023;1137136</TrackPoint>
+        <TrackPoint>1079.051;681.4097;1138137</TrackPoint>
+        <TrackPoint>1063.09;694.3068;1139138</TrackPoint>
+        <TrackPoint>1014.544;707.2236;1140139</TrackPoint>
+        <TrackPoint>940.1974;708.2299;1141140</TrackPoint>
+        <TrackPoint>878.0356;698.847;1142141</TrackPoint>
+        <TrackPoint>836.9854;677.7354;1143142</TrackPoint>
+        <TrackPoint>819.2319;641.1689;1144143</TrackPoint>
+        <TrackPoint>838.8015;603.0815;1145144</TrackPoint>
+        <TrackPoint>866.9502;593.6986;1146145</TrackPoint>
+        <TrackPoint>894.5278;593.0188;1147146</TrackPoint>
+        <TrackPoint>925.2958;615.9933;1148147</TrackPoint>
+        <TrackPoint>949.0375;645.0463;1149148</TrackPoint>
+        <TrackPoint>1001.816;668.5036;1150149</TrackPoint>
+        <TrackPoint>1032.338;684.931;1151150</TrackPoint>
+        <TrackPoint>1016.093;699.0014;1152151</TrackPoint>
+        <TrackPoint>973.1187;716.6126;1153152</TrackPoint>
+        <TrackPoint>903.9462;716.705;1154153</TrackPoint>
+        <TrackPoint>841.7844;702.6307;1155154</TrackPoint>
+        <TrackPoint>808.9442;680.3463;1156155</TrackPoint>
+        <TrackPoint>792.1921;641.0706;1157156</TrackPoint>
+        <TrackPoint>826.2051;602.3661;1158157</TrackPoint>
+        <TrackPoint>874.5282;586.4039;1159158</TrackPoint>
+        <TrackPoint>896.8126;591.0953;1160159</TrackPoint>
+        <TrackPoint>917.174;617.5112;1161160</TrackPoint>
+        <TrackPoint>964.0886;649.1785;1162161</TrackPoint>
+        <TrackPoint>1019.782;675.2657;1163162</TrackPoint>
+        <TrackPoint>1055.684;685.829;1164163</TrackPoint>
+        <TrackPoint>1035.429;699.9012;1165164</TrackPoint>
+        <TrackPoint>981.4774;716.3214;1166165</TrackPoint>
+        <TrackPoint>913.4514;721.0128;1167166</TrackPoint>
+        <TrackPoint>851.2896;709.2841;1168167</TrackPoint>
+        <TrackPoint>809.0665;679.9625;1169168</TrackPoint>
+        <TrackPoint>796.7339;629.9387;1170169</TrackPoint>
+        <TrackPoint>835.634;597.7654;1171170</TrackPoint>
+        <TrackPoint>872.4369;589.3586;1172171</TrackPoint>
+        <TrackPoint>894.7213;594.0501;1173172</TrackPoint>
+        <TrackPoint>923.1198;606.8018;1174173</TrackPoint>
+        <TrackPoint>963.9503;648.9403;1175174</TrackPoint>
+        <TrackPoint>1019.43;675.5454;1176175</TrackPoint>
+        <TrackPoint>1056.81;687.2831;1177176</TrackPoint>
+        <TrackPoint>1045.887;700.1881;1178177</TrackPoint>
+        <TrackPoint>1001.318;715.4354;1179178</TrackPoint>
+        <TrackPoint>930.9459;722.4725;1180179</TrackPoint>
+        <TrackPoint>858.2285;709.571;1181180</TrackPoint>
+        <TrackPoint>817.2635;690.8762;1182181</TrackPoint>
+        <TrackPoint>792.6334;636.9244;1183182</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Ankle 5">
+        <SpacePosition>804.834;537.3012</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;100;149;237</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="00f9bf6c-b3c2-478f-91be-beccb7af0427" name="Ankle 6">
+      <TimePosition>1094093</TimePosition>
+      <Visible>1094093</Visible>
+      <Invisible>1178177</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Cross</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>384;216</SearchWindow>
+        <BlockWindow>96;54</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="83">
+        <TrackPoint>971.9675;693.85;1094093</TrackPoint>
+        <TrackPoint>926.9673;700.3295;1095094</TrackPoint>
+        <TrackPoint>873.9678;691.2955;1096095</TrackPoint>
+        <TrackPoint>831.7447;677.2212;1097096</TrackPoint>
+        <TrackPoint>810.6331;657.2825;1098097</TrackPoint>
+        <TrackPoint>811.806;611.5407;1099098</TrackPoint>
+        <TrackPoint>843.4733;584.5648;1100099</TrackPoint>
+        <TrackPoint>878.6592;581.0462;1101100</TrackPoint>
+        <TrackPoint>915.0179;593.9477;1102101</TrackPoint>
+        <TrackPoint>939.6487;620.6135;1103102</TrackPoint>
+        <TrackPoint>994.2675;647.738;1104103</TrackPoint>
+        <TrackPoint>1044.701;660.6395;1105104</TrackPoint>
+        <TrackPoint>1067.259;672.3874;1106105</TrackPoint>
+        <TrackPoint>1042.57;685.2979;1107106</TrackPoint>
+        <TrackPoint>997.9158;695.7927;1108107</TrackPoint>
+        <TrackPoint>939.7426;688.7382;1109108</TrackPoint>
+        <TrackPoint>891.4333;678.1635;1110109</TrackPoint>
+        <TrackPoint>871.4946;651.1877;1111110</TrackPoint>
+        <TrackPoint>874.3393;613.7264;1112111</TrackPoint>
+        <TrackPoint>903.3005;584.4694;1113112</TrackPoint>
+        <TrackPoint>937.6002;584.0462;1114113</TrackPoint>
+        <TrackPoint>971.6133;598.1206;1115114</TrackPoint>
+        <TrackPoint>1005.537;625.1333;1116115</TrackPoint>
+        <TrackPoint>1052.452;649.7635;1117116</TrackPoint>
+        <TrackPoint>1104.182;668.5358;1118117</TrackPoint>
+        <TrackPoint>1119.044;683.4308;1119118</TrackPoint>
+        <TrackPoint>1092.872;693.9971;1120119</TrackPoint>
+        <TrackPoint>1038.92;704.5529;1121120</TrackPoint>
+        <TrackPoint>976.7476;697.4935;1122121</TrackPoint>
+        <TrackPoint>925.2555;684.5918;1123122</TrackPoint>
+        <TrackPoint>890.0696;675.2089;1124123</TrackPoint>
+        <TrackPoint>870.1309;652.9245;1125124</TrackPoint>
+        <TrackPoint>877.1682;614.22;1126125</TrackPoint>
+        <TrackPoint>912.3541;583.7255;1127126</TrackPoint>
+        <TrackPoint>981.553;606.0098;1128127</TrackPoint>
+        <TrackPoint>1002.665;638.8501;1129128</TrackPoint>
+        <TrackPoint>1047.234;665.8259;1130129</TrackPoint>
+        <TrackPoint>1085.829;682.2501;1131130</TrackPoint>
+        <TrackPoint>1092.21;694.0031;1132131</TrackPoint>
+        <TrackPoint>1049.994;708.0818;1133132</TrackPoint>
+        <TrackPoint>988.338;714.5479;1134133</TrackPoint>
+        <TrackPoint>920.34;700.4508;1135134</TrackPoint>
+        <TrackPoint>867.5611;688.7222;1136135</TrackPoint>
+        <TrackPoint>839.4124;653.5363;1137136</TrackPoint>
+        <TrackPoint>845.9167;614.9948;1138137</TrackPoint>
+        <TrackPoint>879.9297;585.6731;1139138</TrackPoint>
+        <TrackPoint>890.4855;589.1917;1140139</TrackPoint>
+        <TrackPoint>918.0077;609.3145;1141140</TrackPoint>
+        <TrackPoint>943.7478;641.715;1142141</TrackPoint>
+        <TrackPoint>991.3538;667.0488;1143142</TrackPoint>
+        <TrackPoint>1029.531;685.8211;1144143</TrackPoint>
+        <TrackPoint>1042.36;695.2063;1145144</TrackPoint>
+        <TrackPoint>1000.137;712.7993;1146145</TrackPoint>
+        <TrackPoint>931.7882;718.8143;1147146</TrackPoint>
+        <TrackPoint>867.2807;707.0857;1148147</TrackPoint>
+        <TrackPoint>809.8104;695.3571;1149148</TrackPoint>
+        <TrackPoint>781.6616;654.3068;1150149</TrackPoint>
+        <TrackPoint>784.0448;610.7289;1151150</TrackPoint>
+        <TrackPoint>822.5446;589.0991;1152151</TrackPoint>
+        <TrackPoint>854.4835;587.444;1153152</TrackPoint>
+        <TrackPoint>883.312;607.1976;1154153</TrackPoint>
+        <TrackPoint>917.325;641.2107;1155154</TrackPoint>
+        <TrackPoint>968.5844;670.2006;1156155</TrackPoint>
+        <TrackPoint>1017.005;690.1202;1157156</TrackPoint>
+        <TrackPoint>1034.416;697.1594;1158157</TrackPoint>
+        <TrackPoint>1001.729;718.2681;1159158</TrackPoint>
+        <TrackPoint>934.876;714.7495;1160159</TrackPoint>
+        <TrackPoint>867.802;705.3499;1161160</TrackPoint>
+        <TrackPoint>818.284;685.1183;1162161</TrackPoint>
+        <TrackPoint>784.2709;647.5867;1163162</TrackPoint>
+        <TrackPoint>797.2634;604.9429;1164163</TrackPoint>
+        <TrackPoint>830.1359;589.2004;1165164</TrackPoint>
+        <TrackPoint>856.7292;589.4096;1166165</TrackPoint>
+        <TrackPoint>885.0487;607.3125;1167166</TrackPoint>
+        <TrackPoint>915.3959;642.2631;1168167</TrackPoint>
+        <TrackPoint>972.2486;671.9067;1169168</TrackPoint>
+        <TrackPoint>1027.841;691.6641;1170169</TrackPoint>
+        <TrackPoint>1038.383;699.871;1171170</TrackPoint>
+        <TrackPoint>1008.113;716.3088;1172171</TrackPoint>
+        <TrackPoint>937.4643;719.0513;1173172</TrackPoint>
+        <TrackPoint>865.9196;712.0141;1174173</TrackPoint>
+        <TrackPoint>818.1525;689.1713;1175174</TrackPoint>
+        <TrackPoint>784.1395;650.4668;1176175</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Ankle 6">
+        <SpacePosition>951.9675;643.85</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;178;34;34</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+  </Tracks>
+  <CoordinateSystem id="87e9210c-95d5-4bae-abe4-af68fb57e954" name="Coordinate system 1">
+    <Position>904.7974;541.7615</Position>
+    <Visible>false</Visible>
+    <ShowGrid>false</ShowGrid>
+    <ShowGraduations>false</ShowGraduations>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <TestGrid id="256174a4-8eb1-4dca-82f7-306f61f8033f" name="Camera test grid 1">
+    <Visible>false</Visible>
+    <ShowHorizontalAxis>true</ShowHorizontalAxis>
+    <ShowVerticalAxis>true</ShowVerticalAxis>
+    <ShowFraming>true</ShowFraming>
+    <ShowThirds>false</ShowThirds>
+    <DrawingStyle>
+      <Color Key="color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </TestGrid>
+  <Trackability>
+    <TrackableDrawing id="77acfe76-0920-4088-ad22-7679dc12d3cc">
+      <TrackablePoint key="0">
+        <TrackerParameters>
+          <SimilarityThreshold>0.5</SimilarityThreshold>
+          <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+          <RefinementNeighborhood>1</RefinementNeighborhood>
+          <SearchWindow>384;216</SearchWindow>
+          <BlockWindow>96;54</BlockWindow>
+        </TrackerParameters>
+        <NonTrackingValue>1343.94;492.8678</NonTrackingValue>
+        <CurrentValue>1564.773;450.3865</CurrentValue>
+        <Timeline>
+          <Frame time="580580" location="1343.94;492.8678" source="Manual" />
+          <Frame time="581581" location="1346.387;486.3068" source="Manual" />
+          <Frame time="582582" location="1345;492" source="TemplateMatching" />
+          <Frame time="583583" location="1357.387;489.3067" source="Manual" />
+          <Frame time="584584" location="1362;488" source="TemplateMatching" />
+          <Frame time="585585" location="1359;487" source="TemplateMatching" />
+          <Frame time="586586" location="1357.386;482.3067" source="Manual" />
+          <Frame time="587587" location="1354.681;481.0549" source="Manual" />
+          <Frame time="588588" location="1351.307;488.1596" source="Manual" />
+          <Frame time="589589" location="1356;492" source="TemplateMatching" />
+          <Frame time="590590" location="1360.803;492.1047" source="Manual" />
+          <Frame time="591591" location="1372;484" source="TemplateMatching" />
+          <Frame time="592592" location="1372;478" source="TemplateMatching" />
+          <Frame time="593593" location="1368;476" source="TemplateMatching" />
+          <Frame time="594594" location="1366;478" source="TemplateMatching" />
+          <Frame time="595595" location="1372.08;478.6135" source="Manual" />
+          <Frame time="596596" location="1378.08;479.8404" source="Manual" />
+          <Frame time="597597" location="1390;476" source="TemplateMatching" />
+          <Frame time="598598" location="1392;468" source="TemplateMatching" />
+          <Frame time="599599" location="1386;470" source="TemplateMatching" />
+          <Frame time="600600" location="1382;466" source="TemplateMatching" />
+          <Frame time="601601" location="1383;468.1596" source="Manual" />
+          <Frame time="602602" location="1376.386;475.3616" source="Manual" />
+          <Frame time="603603" location="1387;478" source="TemplateMatching" />
+          <Frame time="604604" location="1404;482" source="TemplateMatching" />
+          <Frame time="605605" location="1410;478" source="TemplateMatching" />
+          <Frame time="606606" location="1414;470" source="TemplateMatching" />
+          <Frame time="607607" location="1417;466" source="TemplateMatching" />
+          <Frame time="609609" location="1430.466;471.3865" source="Manual" />
+          <Frame time="610610" location="1432.239;461.0798" source="Manual" />
+          <Frame time="611611" location="1454.08;459.7731" source="Manual" />
+          <Frame time="612612" location="1453;456" source="TemplateMatching" />
+          <Frame time="613613" location="1452;454" source="TemplateMatching" />
+          <Frame time="614614" location="1449.08;453.9202" source="Manual" />
+          <Frame time="615615" location="1451.319;465" source="Manual" />
+          <Frame time="616616" location="1444.865;464.9202" source="Manual" />
+          <Frame time="617617" location="1457;464" source="TemplateMatching" />
+          <Frame time="618618" location="1460;465" source="TemplateMatching" />
+          <Frame time="619619" location="1456;465" source="TemplateMatching" />
+          <Frame time="620620" location="1445;464" source="Manual" />
+          <Frame time="621621" location="1450.933;467.3067" source="Manual" />
+          <Frame time="622622" location="1444;471" source="TemplateMatching" />
+          <Frame time="623623" location="1441;475" source="TemplateMatching" />
+          <Frame time="624624" location="1446;467" source="TemplateMatching" />
+          <Frame time="625625" location="1443;459" source="TemplateMatching" />
+          <Frame time="626626" location="1433;459" source="TemplateMatching" />
+          <Frame time="627627" location="1427;459" source="TemplateMatching" />
+          <Frame time="628628" location="1420;467" source="TemplateMatching" />
+          <Frame time="629629" location="1409.613;474" source="Manual" />
+          <Frame time="630630" location="1403;478" source="TemplateMatching" />
+          <Frame time="631631" location="1405;477" source="TemplateMatching" />
+          <Frame time="632632" location="1404;472" source="TemplateMatching" />
+          <Frame time="633633" location="1396;471" source="TemplateMatching" />
+          <Frame time="634634" location="1386;474" source="TemplateMatching" />
+          <Frame time="635635" location="1383.386;475.3067" source="Manual" />
+          <Frame time="636636" location="1375.386;479.3067" source="Manual" />
+          <Frame time="637637" location="1367;482" source="TemplateMatching" />
+          <Frame time="638638" location="1369;473" source="TemplateMatching" />
+          <Frame time="639639" location="1368;465" source="TemplateMatching" />
+          <Frame time="640640" location="1363;453.2269" source="Manual" />
+          <Frame time="641641" location="1360.386;453.1471" source="Manual" />
+          <Frame time="642642" location="1354.773;457.4539" source="Manual" />
+          <Frame time="643643" location="1362.08;459" source="Manual" />
+          <Frame time="644644" location="1363;463" source="TemplateMatching" />
+          <Frame time="645645" location="1370;461" source="TemplateMatching" />
+          <Frame time="646646" location="1380;456" source="TemplateMatching" />
+          <Frame time="647647" location="1388;450" source="TemplateMatching" />
+          <Frame time="648648" location="1393;448" source="TemplateMatching" />
+          <Frame time="649649" location="1399;449" source="TemplateMatching" />
+          <Frame time="650650" location="1408;452" source="TemplateMatching" />
+          <Frame time="651651" location="1423;455" source="TemplateMatching" />
+          <Frame time="652652" location="1444;445" source="TemplateMatching" />
+          <Frame time="653653" location="1461;433" source="TemplateMatching" />
+          <Frame time="654654" location="1474;431" source="TemplateMatching" />
+          <Frame time="655655" location="1488.386;434.6933" source="Manual" />
+          <Frame time="656656" location="1494;432" source="TemplateMatching" />
+          <Frame time="657657" location="1510.387;438" source="Manual" />
+          <Frame time="658658" location="1531.773;443" source="Manual" />
+          <Frame time="659659" location="1536;445.6933" source="Manual" />
+          <Frame time="660660" location="1545;437" source="TemplateMatching" />
+          <Frame time="661661" location="1553;436" source="TemplateMatching" />
+          <Frame time="662662" location="1555;438" source="TemplateMatching" />
+          <Frame time="663663" location="1560.386;447.3865" source="Manual" />
+          <Frame time="664664" location="1558.386;449.3865" source="Manual" />
+          <Frame time="665665" location="1564.773;450.3865" source="Manual" />
+        </Timeline>
+      </TrackablePoint>
+    </TrackableDrawing>
+  </Trackability>
+  <VideoFilters>
+    <Kinogram>
+      <TileCount>18</TileCount>
+      <Rows>3</Rows>
+      <CropSize>400;600</CropSize>
+      <CropPositions>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+      </CropPositions>
+      <AutoInterpolate>true</AutoInterpolate>
+      <LeftToRight>true</LeftToRight>
+      <BorderColor>44;44;44</BorderColor>
+      <BorderVisible>true</BorderVisible>
+      <MeasureLabelType>None</MeasureLabelType>
+    </Kinogram>
+  </VideoFilters>
+</KinoveaVideoAnalysis>

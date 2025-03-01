@@ -1,0 +1,4 @@
+n.n I need to quickly make the table and graphs for the pearson correlation coefficient part of the IA once I am done with the above mentioned issues.
+
+- write up about savitzky golay and add bibliography sections for it.
+- write up about polynomial regression (pearson correlation coefficient) and add bibliography sections for it.	

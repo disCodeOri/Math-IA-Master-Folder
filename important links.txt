@@ -1,0 +1,3 @@
+CSV to MD comverter - https://www.convertcsv.com/csv-to-markdown.htm
+Math IA database - https://docs.google.com/spreadsheets/d/1NH4_VR1NO6rsjA9O-hxGqeFbLxQf_H8dUht67_cCXuo/edit?gid=0#gid=0
+Math IA Draft - https://docs.google.com/document/d/19J5Ta3fpHsExCol-QY3LFygd1zmtGFKBwsGWXogbsLo/edit?usp=sharing

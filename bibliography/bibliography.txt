@@ -1,0 +1,11 @@
+- https://www.youtube.com/watch?v=E4ZleAoAqlE (Justin Gatlin Side Camera Compilation)
+- https://www.youtube.com/watch?v=KyaK3KnQHNw (RUNNING ANALYSIS: How Justin Gatlin Runs the 100m Under 10 seconds)
+- https://health.howstuffworks.com/human-body/parts/uain-bolt-legs-asymmetrical-uneven-stride.htm (Scientists Discover Something Mind-blowing About How Usain Bolt Runs)
+- https://chat.qwen.ai/c/912326d1-085e-40e8-bafc-62577c049c99 (Qwen data zoom scaling chat)
+- papers sent to you by ma'am
+
+
+- find more relevant papers through deepseek and LLMs that can find good sources.
+- Need to find sources for pearson's correlation coefficient
+	- https://www.google.com/search?q=pearson%27s+correlation+coefficient
+	- https://www.scribbr.com/statistics/pearson-correlation-coefficient/#:~:text=The%20Pearson%20correlation%20coefficient%20(r,the%20relationship%20between%20two%20variables.&text=When%20one%20variable%20changes%2C%20the,changes%20in%20the%20same%20direction.
