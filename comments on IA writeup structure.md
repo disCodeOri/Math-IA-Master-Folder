@@ -1,0 +1,2 @@
+- The method shown will be the initial and naive picture where only the PCC stuff will be there in the mathematical analysis. (The additional data processing will be introduced as a sort of unexpected anomaly and then show it like the solution to that anomaly had to be made during the action, making it a really organic flow)
+-

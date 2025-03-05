@@ -1,0 +1,3 @@
+calculations:
+ per ankle per year per direction of motion
+Need to calculate 8 PCCs (8 coeffs) in total
